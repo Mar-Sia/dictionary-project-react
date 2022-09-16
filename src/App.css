@@ -1,4 +1,9 @@
-.App-footer ,.App-header {
+.App-footer,
+.App-header {
   text-align: center;
 }
 
+.App h1 {
+  text-align: center;
+  color: rgb(245, 67, 96);
+}
