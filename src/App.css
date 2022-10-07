@@ -3,7 +3,28 @@
   text-align: center;
 }
 
+:root {
+  --main-color: rgb(245, 67, 96);
+}
+
 .App h1 {
   text-align: center;
-  color: rgb(245, 67, 96);
+  color: var(--main-color);
+}
+
+body {
+  background: #eaf6f6;
+}
+
+a {
+  color: #66bfbf;
+}
+
+.Results h2 {
+  color: var(--main-color);
+}
+
+h3 {
+  font-size: 24px;
+  color:  #f76b8a; 
 }
