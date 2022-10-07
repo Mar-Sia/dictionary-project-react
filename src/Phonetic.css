@@ -1,0 +1,17 @@
+.Phonetic a {
+  color: #66bfbf;
+  text-decoration: none;
+  margin: 10px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.Phonetic a:hover {
+  color: #f54a66;
+}
+
+.Phonetic .text {
+  opacity: 0.4;
+  font-weight: bold;
+ 
+}
