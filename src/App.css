@@ -27,4 +27,5 @@ h3 {
 
 .App-footer a {
   color: var(--main-color);
+  margin-bottom: 20px;
 }
