@@ -24,3 +24,7 @@ h3 {
   font-size: 24px;
   color: #f76b8a;
 }
+
+.App-footer a {
+  color: var(--main-color);
+}

@@ -11,7 +11,24 @@ export default function App() {
       </div>
       <Dictionary defaultKeyword="hello" />
       <footer className="App-footer">
-        <small>This page was coded by Maria Siara</small>
+        <small>
+          This page was coded by Maria Siara and is{" "}
+          <a
+            href="https://github.com/Mar-Sia/dictionary-project-react"
+            target="_blank"
+            rel="noreferrer"
+          >
+            open-source on GitHub
+          </a>{" "}
+          and hosted on{" "}
+          <a
+            href="https://idyllic-profiterole-8e0002.netlify.app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Netlify
+          </a>
+        </small>
       </footer>
     </div>
   );
